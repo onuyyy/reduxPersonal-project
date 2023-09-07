@@ -1,0 +1,25 @@
+/*
+* Template Name: Blogy
+* Template Author: Untree.co
+* Template License: https://creativecommons.org/licenses/by/3.0/
+* Author URI: https://untree.co/
+
+* Twitter: https://twitter.com/Untree_co
+* Facebook: https://web.facebook.com/Untree.co/
+*/
+$font-family-sans-serif: 'Work Sans', sans-serif;
+$font-family-sans-serif-secondary: 'Work Sans', sans-serif;
+
+$primary: #214252;
+$secondary: #4D4C7D;
+
+@import 'mixins';
+@import 'functions';
+@import 'variables';
+
+@import 'bootstrap';
+
+@import 'site-navbar';
+@import 'site-base';
+@import 'site-blocks';
+@import 'site-footer';
